@@ -14,15 +14,15 @@ import java.util.List;
 
 public class OrderController {
 
-
-git reset
-git remote -v
-git pull --rebase
-git init
-git add -A
-git commit -m "first frontend commit"
-git branch -M main
-git push origin main --force
+//
+//git reset
+//git remote -v
+//git pull --rebase
+//git init
+//git add -A
+//git commit -m "first frontend commit"
+//git branch -M main
+//git push origin main --force
 
     private OrderService orderService;
     @Autowired
